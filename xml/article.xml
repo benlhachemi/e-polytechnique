@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Articles>
+    <Article titre="Titre de l'article 1">
+        <Texte>
+            Bonjour, je m'appelle <important>Souhail Benlhachemi</important>. Etudiant a l'université e-polytechnique.
+            Vous pouvez vois mon cv en cliquant <référence lien="https://google.com">ici</référence>. Merci
+        </Texte>
+        <Bibliographie>
+            <Ouvrages>
+                <Ouvrage titre="Titre de l'ouvrage 1" date-parition="2005" editeur="Editeur">
+                    <Auteurs>
+                        <Auteur nom = "Benlhachemi" prenom = "Souhail" />
+                        <Auteur nom = "Benlhachemi" prenom = "Souhail" />
+                    </Auteurs>
+                </Ouvrage>
+            </Ouvrages>
+            <Sites-Web>
+                <Site nom="Google" lien="https://google.com" />
+                <Site nom="Github" lien="https://github.com" />
+            </Sites-Web>
+        </Bibliographie>
+    </Article>
+    <Article titre="Titre de l'article 2">
+        <Texte>
+            Bonjour, je m'appelle <important>Souhail Benlhachemi</important>. Etudiant a l'université e-polytechnique.
+            Vous pouvez vois mon cv en cliquant <référence lien="https://google.com">ici</référence>. Merci
+        </Texte>
+        <Bibliographie>
+            <Ouvrages>
+                <Ouvrage titre="Titre de l'ouvrage 1" date-parition="2005" editeur="Editeur">
+                    <Auteurs>
+                        <Auteur nom = "Benlhachemi" prenom = "Souhail" />
+                        <Auteur nom = "Benlhachemi" prenom = "Souhail" />
+                    </Auteurs>
+                </Ouvrage>
+            </Ouvrages>
+            <Sites-Web>
+                <Site nom="Google" lien="https://google.com" />
+                <Site nom="Github" lien="https://github.com" />
+            </Sites-Web>
+        </Bibliographie>
+    </Article>
+</Articles>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Livre>
+    <Sections>
+        <Section titre = "Section 1">
+            <Chapitre titre = "Chapitre 1">
+                <p>Lorem Ipsum is simply dummy text of the</p>
+                <p>Lorem Ipsum is simply dummy text of the</p>
+            </Chapitre>
+            <Chapitre titre = "Chapitre 2">
+                <p>Lorem Ipsum is simply dummy text of the</p>
+                <p>Lorem Ipsum is simply dummy text of the</p>
+            </Chapitre>
+        </Section>
+        <Section titre = "Section 2">
+            <Chapitre titre = "Chapitre 3">
+                <p>Lorem Ipsum is simply dummy text of the</p>
+                <p>Lorem Ipsum is simply dummy text of the</p>
+            </Chapitre>
+            <Chapitre titre = "Chapitre 4">
+                <p>Lorem Ipsum is simply dummy text of the</p>
+                <p>Lorem Ipsum is simply dummy text of the</p>
+            </Chapitre>
+        </Section>
+    </Sections>
+    <Auteurs>
+        <Auteur>
+            <Nom>Benlhachemi</Nom>
+            <Prenom>Souhail</Prenom>
+        </Auteur>
+        <Auteur>
+            <Nom>Benlhachemi</Nom>
+            <Prenom>Souhail</Prenom>
+        </Auteur>
+    </Auteurs>
+</Livre>
