@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Livre SYSTEM "./dtd/livre.dtd">
 <Livre>
     <Sections>
-        <Section titre = "Section 1">
-            <Chapitre titre = "Chapitre 1">
+        <Section>
+            <titre>titre de la section</titre>
+            <Chapitre>
+                <titre>Titre du chapitre</titre>
                 <p>Lorem Ipsum is simply dummy text of the</p>
                 <p>Lorem Ipsum is simply dummy text of the</p>
             </Chapitre>
-            <Chapitre titre = "Chapitre 2">
+            <Chapitre>
+                <titre>Titre du chapitre</titre>
                 <p>Lorem Ipsum is simply dummy text of the</p>
                 <p>Lorem Ipsum is simply dummy text of the</p>
             </Chapitre>
         </Section>
-        <Section titre = "Section 2">
-            <Chapitre titre = "Chapitre 3">
+        <Section>
+            <titre>titre de la section</titre>
+            <Chapitre>
+                <titre>titre de la section</titre>
                 <p>Lorem Ipsum is simply dummy text of the</p>
                 <p>Lorem Ipsum is simply dummy text of the</p>
             </Chapitre>
-            <Chapitre titre = "Chapitre 4">
+            <Chapitre>
+                <titre>titre de la section</titre>
                 <p>Lorem Ipsum is simply dummy text of the</p>
                 <p>Lorem Ipsum is simply dummy text of the</p>
             </Chapitre>

@@ -1,0 +1,14 @@
+<!ELEMENT Repertoire (Personnes)>
+<!ELEMENT Personnes (Personne+)>
+<!ELEMENT Personne (sexe,nom,prenom,Adresse,Num-Tel)>
+<!ELEMENT sexe (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT Adresse (numero,code-postale,ville,pays)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT code-postale (#PCDATA)>
+<!ELEMENT ville (#PCDATA)>
+<!ELEMENT pays (#PCDATA)>
+<!ELEMENT Num-Tel (portable,fixe)>
+<!ELEMENT portable (#PCDATA)>
+<!ELEMENT fixe (#PCDATA)>

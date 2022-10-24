@@ -1,1 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Repertoire SYSTEM "./dtd/repertoire.dtd">
+<Repertoire>
+    <Personnes>
+        <Personne>
+            <sexe>Homme</sexe>
+            <nom>Benlhachemi</nom>
+            <prenom>Souhail</prenom>
+            <Adresse>
+                <numero>96/V</numero>
+                <code-postale>80100</code-postale>
+                <ville>Agadir</ville>
+                <pays>Maroc</pays>
+            </Adresse>
+            <Num-Tel>
+                <portable>06 16 46 15 56</portable>
+                <fixe>05 16 46 15 56</fixe>
+            </Num-Tel>
+        </Personne>
+        <Personne>
+            <sexe>Homme</sexe>
+            <nom>Benlhachemi</nom>
+            <prenom>Souhail</prenom>
+            <Adresse>
+                <numero>96/V</numero>
+                <code-postale>80100</code-postale>
+                <ville>Agadir</ville>
+                <pays>Maroc</pays>
+            </Adresse>
+            <Num-Tel>
+                <portable>06 16 46 15 56</portable>
+                <fixe>05 16 46 15 56</fixe>
+            </Num-Tel>
+        </Personne>
+    </Personnes>
+</Repertoire>

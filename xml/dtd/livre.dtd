@@ -1,0 +1,10 @@
+<!ELEMENT Livre (Sections,Auteurs)>
+<!ELEMENT Sections (Section+)>
+<!ELEMENT Section (titre,Chapitre+)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT Chapitre (titre,p+)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT Auteurs (Auteur+)>
+<!ELEMENT Auteur (Nom,Prenom)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Prenom (#PCDATA)>
